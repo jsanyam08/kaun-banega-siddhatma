@@ -1,0 +1,16 @@
+# Firebase deploy cache
+.firebase/
+firebase-debug.log
+
+# Never commit show data, account exports or the question bank (it holds the answers)
+exports/
+users.json
+admins.json
+*.csv
+*question-bank*.json
+import-levels.json
+
+# Local backups
+*.bak
+*.backup*.json
+*.backup.html

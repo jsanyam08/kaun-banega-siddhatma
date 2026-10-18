@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "kounbanegasiddhatma"
+  },
+  "targets": {
+    "kounbanegasiddhatma": {
+      "hosting": {
+        "kbs": ["kounbanegasiddhatma"]
+      }
+    }
+  }
+}
